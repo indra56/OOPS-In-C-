@@ -1,5 +1,0 @@
-// Oops! Missing the required header for printf.
-int main() {
-    printf("Hello, World!");  // Error if <stdio.h> is not included.
-    return 0;
-}
