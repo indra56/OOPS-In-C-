@@ -1,7 +1,0 @@
-class ElectricCar(Car):
-    def __init__(self, color, brand, model, battery_size):
-        super().__init__(color, brand, model)
-        self.battery_size = battery_size
-
-    def charge(self):
-        pass
