@@ -1,6 +1,0 @@
-public class Dog extends Animal{
-    // Implement the abstract method
-    public void sound(){
-        System.out.println("Woof");
-    }
-}
